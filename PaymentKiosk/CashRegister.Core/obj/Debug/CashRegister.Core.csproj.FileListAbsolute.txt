@@ -1,0 +1,13 @@
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\bin\Debug\CashRegister.Core.dll
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\bin\Debug\CashRegister.Core.pdb
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\bin\Debug\Stripe.net.dll
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\obj\Debug\CashRegister.Core.csprojResolveAssemblyReference.cache
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\obj\Debug\CashRegister.Core.dll
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\obj\Debug\CashRegister.Core.pdb
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\bin\Debug\RestSharp.dll
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\bin\Debug\Twilio.Api.dll
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\bin\Debug\RestSharp.xml
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\bin\Debug\Twilio.Api.pdb
+C:\Dev\GitHub\PaymentKiosk\PaymentKiosk\CashRegister.Core\bin\Debug\Twilio.Api.xml
